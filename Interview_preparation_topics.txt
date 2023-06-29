@@ -1,0 +1,29 @@
+1. Java basics - oops, jvm jdk jre, strings, 
+constructor, inheritance, interface,
+java 8 features, multithreading, static,
+exception handling, abstract, 
+functional interfaces, lambda, optional, 
+how many ways to create objects.
+
+2. Marker interfaces, cloning, serializing, 
+reflection, collections - hierarchy,
+types and their applications, utility classes,
+maps - hashmap implementation, types.
+
+3. Spring - ioc container, annotations, 
+dependency, dependency injection, 
+injection types - setter based, 
+constructor based, field based, 
+container types, spring config types, 
+spring bean lifecycle, autowiring concept, 
+types - by type, by name, constructor, 
+auto detect. Spring bean scopes -
+singleton, prototype, request, 
+session, application, websocket. 
+
+4. Design patterns DP- singleton, create, 
+types, breaking singleton and types,
+design patterns categories - creational, 
+structural, behavioural. Key DPs - builder, 
+factory, template, facade etc,
+code sample and use-cases for DPs.
